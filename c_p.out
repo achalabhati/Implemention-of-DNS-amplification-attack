@@ -1,0 +1,6 @@
+\BOOKMARK [2][-]{subsection.0.1}{DNS Working}{}% 1
+\BOOKMARK [2][-]{subsection.0.2}{Methods to implement DNS}{}% 2
+\BOOKMARK [3][-]{subsubsection.0.2.1}{Iterative Name Resolution}{subsection.0.2}% 3
+\BOOKMARK [3][-]{subsubsection.0.2.2}{Recursive Name Resolution}{subsection.0.2}% 4
+\BOOKMARK [1][-]{section.1}{DOS attack \(Denial of Service attack\)}{}% 5
+\BOOKMARK [2][-]{subsubsection.1.0.1}{Distributed Denial of Service\(DDos\)}{section.1}% 6
